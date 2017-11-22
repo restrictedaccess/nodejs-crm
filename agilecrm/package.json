@@ -1,0 +1,27 @@
+{
+  "name": "agile_crm",
+  "version": "1.2.5",
+  "description": "Rest call to Agile CRM",
+  "main": "agilecrm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghanraut@bitbucket.org/aiamlabs/agilecrm-node-api.git"
+  },
+  "keywords": [
+    "Agile",
+    "CRM"
+  ],
+  "author": {
+    "name": "ghanshyam"
+  },
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aiamlabs/agilecrm-node-api#readme",
+  "gitHead": "b1e850a2d43840c41e9d478553aeed601bad43f2",
+  "readme": "ERROR: No README data found!",
+  "_id": "agile_crm@1.0.0",
+  "_shasum": "63e4d88a94abaf6b8d973ba0e0b6bb08f6aeecde",
+  "_from": "agile_crm@latest"
+}
